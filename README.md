@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 
-![Brayan GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanFJ&show_icons=true&theme=tokyonight)
+![Brayan GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanFJ&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanFJ&layout=compact)
+
 
 ### Tecnologias
 
