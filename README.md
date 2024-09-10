@@ -1,3 +1,4 @@
+## Olá! Eu sou o Brayan 🖐️
 
 
 <!--
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Apaixonado por tecnologia e inovação ...
 --> 
-### Olá! Eu sou o Brayan 🖐️
 
 - 🔭 Em busca de novas oportunidades profissionais para aplicar meus conhecimentos e desenvolver minhas habilidades.
 - 🌱 Estudando a linguagem C#.
