@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 Em busca de novas oportunidades profissionais para aplicar meus conhecimentos e desenvolver minhas habilidades.
 - 🌱 Estudando a linguagem C#.
-- ⚡ Apaixonado por tecnologia e inovação ...
+- ⚡ Apaixonado por tecnologia e inovação...
 
 [![Blog](https://img.shields.io/website?label=BlogBrayanFJ.com&style=for-the-badge&url=https://brayanfj.github.io/Meu_Blog//)](https://brayanfj.github.io/Meu_Blog/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-fernandes-272657231/)
